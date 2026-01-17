@@ -1,29 +1,32 @@
 
 <h1 align="center">Hi 👋, I'm Samarth Maheshwari</h1>
-<h3 align="center">Electronics & Telecommunication Engineer | Embedded Systems | IIoT | PCB Design</h3>
 
+<h3 align="center">
+Core Electronics • Embedded • Programming • Intelligent Systems
+</h3>
+
+---
+### Professional Overview
+
+I work across electronics and software to build systems that interact with the real world. My strength lies in understanding both the circuit and the code—developing embedded solutions, acquiring sensor data, and converting it into reliable digital intelligence.
+
+I approach engineering as a combination of fundamentals and experimentation, focusing on how hardware, firmware, and algorithms come together as one system. Currently expanding into AI/ML to complement embedded and IIoT workflows, with the goal of creating smarter, data-driven engineering solutions.
 
 ---
 
 
-
-
-## 🛠 Skills & Technologies
+## 🧠 Skills & Technologies
 
 ### 💻 Programming
 <p align="center">
 <img src="https://go-skill-icons.vercel.app/api/icons?i=c,cpp,python" />
 </p>
 
-### 🧰 Tools & Software
+### 🛠 Core Tools & Technologies
 <p align="center">
-<img src="https://go-skill-icons.vercel.app/api/icons?i=arduino,raspberrypi,linux,git,github,vscode,vim,neovim" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=arduino,raspberrypi,linux,git,github,vscode,vim,neovim,numpy,pandas,matplotlib,scikitlearn" />
 </p>
 
-### 📊 Data & ML
-<p align="center">
-<img src="https://go-skill-icons.vercel.app/api/icons?i=numpy,pandas,matplotlib,scikitlearn" />
-</p>
 
 
 ---
@@ -41,5 +44,5 @@
 </p>
 
 ---
+<h4 align="center">Hardware × Software × Intelligence</h4>
 
-⭐ *Turning ideas into circuits → circuits into intelligence*
