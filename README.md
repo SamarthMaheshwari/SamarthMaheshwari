@@ -35,7 +35,7 @@
   <img src="https://go-skill-icons.vercel.app/api/icons?i=gmail" />
 </a>
 
-<a href="www.linkedin.com/in/samarth-maheshwari-709670259">
+<a href="https://www.linkedin.com/in/samarth-maheshwari-709670259">
   <img src="https://go-skill-icons.vercel.app/api/icons?i=linkedin" />
 </a>
 </p>
