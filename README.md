@@ -24,7 +24,7 @@ I approach engineering as a combination of fundamentals and experimentation, foc
 
 ### 🛠 Core Tools & Technologies
 <p align="center">
-<img src="https://go-skill-icons.vercel.app/api/icons?i=arduino,raspberrypi,linux,git,github,vscode,vim,neovim,numpy,pandas,matplotlib,scikitlearn" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=arduino,raspberrypi,linux,ubuntu,git,github,vscode,vim,neovim,numpy,pandas,matplotlib,scikitlearn" />
 </p>
 
 
