@@ -18,78 +18,68 @@ Passionate about designing reliable embedded systems that bridge electronics and
 
 # 🚀 About Me
 
-I'm an **Embedded Systems and Electronics enthusiast** passionate about building real-world solutions through firmware, hardware, and Industrial IoT.
+I'm an Embedded Systems enthusiast passionate about developing reliable firmware and intelligent hardware solutions.
 
-My interests span embedded firmware development, PCB design, hardware prototyping, low-level programming, and communication protocols. I enjoy transforming ideas into reliable embedded systems by combining solid engineering fundamentals with practical implementation.
+My interests include embedded firmware development, Industrial IoT, PCB design, hardware prototyping, and low-level system programming. I enjoy building end-to-end embedded systems that combine electronics, firmware, and communication technologies to solve real-world engineering problems.
 
 ### 🌱 Currently Exploring
 
-* ARM Cortex-M Microcontrollers (STM32)
-* FreeRTOS
-* Embedded Linux
-* Industrial IoT Architectures
-* Embedded System Design Best Practices
+- Embedded Linux
+- RTOS (FreeRTOS)
+- Industrial IoT
+- ARM Cortex-M Architecture
 
 ---
 
-# 💻 Tech Stack
+## 💻 Tech Stack
 
-## Programming Languages
+### Languages
 
 <p align="left">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=c,cpp,python" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 </p>
 
----
-
-## Embedded Platforms
-
-* STM32 (ARM Cortex-M)
-* ESP32
-* ESP8266
-* Arduino
-
----
-
-## Embedded Technologies
-
-* Embedded C
-* Firmware Development
-* FreeRTOS
-* Sensor Interfacing
-* UART
-* SPI
-* I²C
-* MQTT
-* Hardware Debugging
-
----
-
-## PCB & Hardware Design
-
-* PCB Design
-* EasyEDA
-* KiCad
-* Hardware Prototyping
-* Circuit Design
-
----
-
-## Development Tools
+### Embedded Platforms
 
 <p align="left">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=linux,ubuntu,raspberrypi,git,github,vscode,vim,neovim" />
+  <img src="https://img.shields.io/badge/STMicroelectronics-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white">
+  <img src="https://img.shields.io/badge/Espressif-E7352C?style=for-the-badge&logo=espressif&logoColor=white">
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white">
 </p>
 
-**Also Working With**
+### Embedded Technologies
 
-* STM32CubeIDE
-* Arduino IDE
-* Proteus
-* Wokwi
-* Fusion 360
+<p align="left">
+  <img src="https://img.shields.io/badge/FreeRTOS-4BBB4F?style=for-the-badge">
+  <img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=eclipsemosquitto&logoColor=white">
+</p>
+
+### Tools
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
+  <img src="https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white">
+  <img src="https://img.shields.io/badge/EasyEDA-1765F6?style=for-the-badge&logoColor=white">
+</p>
+
 
 ---
+
+
+## 🎯 Core Expertise
+
+- Embedded Firmware Development
+- ARM Cortex-M Systems
+- Industrial IoT Solutions
+- PCB Design & Hardware Prototyping
+- Sensor Integration & Driver Development
+
+---
+
 
 ## 🤝 Connect With Me  
 <p align="center"> 
@@ -98,6 +88,9 @@ My interests span embedded firmware development, PCB design, hardware prototypin
   <a href="https://www.linkedin.com/in/samarth-maheshwari-709670259">   
     <img src="https://go-skill-icons.vercel.app/api/icons?i=linkedin" /> </a> 
 </p>
+
+---
+
 
 <p align="center">
 <i>Engineering reliable systems, one line of code and one circuit at a time.</i>
